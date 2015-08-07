@@ -13,6 +13,12 @@
 gem install sass
 ```
 
+安装插件
+
+```
+npm install -g fis-parser-sass-by-ruby
+```
+
 ### 适用情况
 
 - [x] Mac 64
