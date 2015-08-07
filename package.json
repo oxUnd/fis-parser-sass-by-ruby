@@ -1,0 +1,23 @@
+{
+  "name": "fis-parser-sass-by-ruby",
+  "version": "1.0.0",
+  "description": "sass parser by node 0.12.x in FIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiangshouding/fis-parser-sass-by-ruby"
+  },
+  "keywords": [
+    "fis",
+    "fis3"
+  ],
+  "author": "fansekey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiangshouding/fis-parser-sass-by-ruby/issues"
+  },
+  "homepage": "https://github.com/xiangshouding/fis-parser-sass-by-ruby"
+}
