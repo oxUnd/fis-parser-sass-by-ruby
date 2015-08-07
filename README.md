@@ -15,7 +15,7 @@ gem install sass
 
 ### 适用情况
 
-- [√] Mac 64
+- [x] Mac 64
 
 
 ### 在 fis 中配置使用
