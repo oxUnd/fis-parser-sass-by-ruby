@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/xiangshouding/fis-parser-sass-by-ruby/issues"
   },
-  "homepage": "https://github.com/xiangshouding/fis-parser-sass-by-ruby"
+  "homepage": "https://github.com/xiangshouding/fis-parser-sass-by-ruby",
+  "dependencies": {
+    "cross-spawn": "^5.1.0"
+  }
 }
