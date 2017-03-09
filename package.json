@@ -1,6 +1,6 @@
 {
   "name": "fis-parser-sass-by-ruby",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sass parser by node 0.12.x in FIS",
   "main": "index.js",
   "scripts": {
