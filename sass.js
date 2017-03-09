@@ -4,7 +4,7 @@
 
 'use strict';
 
-var spawnSync = require('child_process').spawnSync;
+var spawnSync = require('cross-spawn').sync;
 
 exports.process = function (filepath, options) {
   options = options || {};
